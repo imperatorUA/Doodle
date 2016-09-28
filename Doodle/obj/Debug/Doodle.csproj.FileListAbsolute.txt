@@ -1,0 +1,9 @@
+C:\Users\samoylov\Desktop\Doodle\Doodle\bin\Debug\Doodle.exe.config
+C:\Users\samoylov\Desktop\Doodle\Doodle\obj\Debug\Doodle.exe
+C:\Users\samoylov\Desktop\Doodle\Doodle\obj\Debug\Doodle.pdb
+C:\Users\samoylov\Desktop\Doodle\Doodle\bin\Debug\Doodle.exe
+C:\Users\samoylov\Desktop\Doodle\Doodle\bin\Debug\Doodle.pdb
+C:\Users\samoylov\Desktop\Doodle\Doodle\obj\Debug\Doodle.Form1.resources
+C:\Users\samoylov\Desktop\Doodle\Doodle\obj\Debug\Doodle.Properties.Resources.resources
+C:\Users\samoylov\Desktop\Doodle\Doodle\obj\Debug\Doodle.csproj.GenerateResource.Cache
+C:\Users\samoylov\Desktop\Doodle\Doodle\obj\Debug\Doodle.csprojResolveAssemblyReference.cache
